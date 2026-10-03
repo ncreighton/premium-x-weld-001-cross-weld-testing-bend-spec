@@ -1,0 +1,2 @@
+# premium-x-weld-001-cross-weld-testing-bend-spec
+Tired of scattered spreadsheets and lost test data for your cross-weld and bend specimens? The Cross Weld Testing &amp; Bend Specimen Craft Hub brings order to your welding QA process.  This Notion template centralizes all cross-weld test results, bend specimen tracking, and craft documentation into one intuitive workspace. Eliminate manual logs and mi
